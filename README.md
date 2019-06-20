@@ -1,1 +1,3 @@
-# DeployFastFoodGuru
+---
+permalink: /index.html
+---
